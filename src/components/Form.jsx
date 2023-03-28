@@ -1,6 +1,5 @@
 /*eslint-disable */
 import { useRef } from 'react';
-import Navbar from './Navbar';
 
 const UncontrolledForm = () => {
   const ref = useRef();
